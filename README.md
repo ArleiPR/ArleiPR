@@ -19,7 +19,7 @@ Meu nome é Arlei Rocha, e desde pequeno sou apaixonado por computadores e tecno
 
 ## Contato
 
-- LinkedIn: [Seu Perfil no LinkedIn](https://www.linkedin.com/in/arleipr/)
+- LinkedIn: [/arleipr](https://www.linkedin.com/in/arleipr/)
 - Email: arleirocha24@gmail.com
 
 Sinta-se à vontade para me seguir e entrar em contato. Estou sempre aberto para novas oportunidades e para colaborar em projetos interessantes.
